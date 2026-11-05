@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Syllabus
+title: Assignments
 ---
 
 ## Assignments

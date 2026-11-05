@@ -1,6 +1,6 @@
 ---
-
-## layout: default
+layout: default
+---
 
 # Datologi for Fysikere
 
@@ -26,5 +26,5 @@ Welcome to DatF!
 
 Topics, and the plan for each week, are on the [syllabus]({% link syllabus.md %}).
 
-## Assignments 
- [Assignments]({% link assignments.md %}).
+## Assignments
+[Assignments]({% link assignments.md %}).
