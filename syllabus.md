@@ -4,11 +4,18 @@ title: Syllabus
 ---
 
 # Syllabus
-
-The week-by-week plan will go here. Each row is a week. The three columns are the standing meetings:
-
-| Week | Date | Monday 9–12 · lecture | Tuesday 13–16 · exercises | Wednesday 9–12 · exercises |
-| --- | --- | --- | --- | --- |
-| 1 | *[date]* | *[topic]* | *[topic]* | *[topic]* |
-
 Rooms and teaching assistants are on the [course page]({% link index.md %}).
+
+| Week | Date | Topics| Assignments|
+| --- | ---  | --- |---|
+| Week 1 |16/11 |  | Assignment 1|
+| Week 2 |23/11 |  | Assignment 1|
+| Week 3 |30/11 |  | Assignment 2|
+| Week 4 |07/12 |  | Assignment 2|
+| Week 5 |14/12 |  | Assignment 3|
+| Week 6 |21/12 |  | Assignment 3|
+| Week 7 |04/01 |  | Assignment 4|
+| Week 8 |11/01 |  | |
+
+
+
