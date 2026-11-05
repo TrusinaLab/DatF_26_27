@@ -1,6 +1,6 @@
 ---
 
-## layout: default
+layout: default
 title: Home
 
 # DatF - Datologi for Fysikere
