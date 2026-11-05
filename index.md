@@ -30,8 +30,8 @@ Bio: Biocenter, Ole Maaløes Vej 5
 NBB: Jagtvej 130
 
 
-## [Syllabus] ({% link syllabus.md %}).
+## [Syllabus]({% link syllabus.md %})
 
 Topics, and the plan for each week.
 
-## [Assignments]({% link assignments.md %}).
+## [Assignments]({% link assignments.md %})
