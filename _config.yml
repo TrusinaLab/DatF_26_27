@@ -5,3 +5,5 @@ theme: minima
 header_pages:
   - syllabus.md
 markdown: kramdown
+url: https://trusinalab.github.io
+baseurl: /DatF_26_27
