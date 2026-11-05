@@ -7,11 +7,11 @@ title: Home
 
 Welcome to DatF!
 
-**lecturer:** *Ala Trusina*
+**Lecturer:** Ala Trusina
 
 **TAs:** Julius Rye Bønnelykke, Lasse Frederik Bonn, Leonie Röntgen, Shirin Gul Zaidi
 
-**co-teacher:** Andreas Stillits
+**Co-teacher:** Andreas Stillits
 
 ## Where and when
 
