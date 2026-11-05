@@ -14,9 +14,6 @@ Welcome to DatF!
 **co-teacher:** Andreas Stillits
 
 ## Where and when
-HCØ: HCØ Universitetsparken 5
-Bio: Biocenter, Ole Maaløes Vej 5
-NBB: Jagtvej 130
 
 | | | | | | |
 | --- | --- | --- | --- | --- | --- |
@@ -26,7 +23,14 @@ NBB: Jagtvej 130
 | Fridays 9–12 | NBB, 1.01.B.080 TA | NBB, 1.01.B.082 TA | NBB, 1.01.F.70 | NBB, 11.E.015 | HCØ, A102 |
 |  |  **TA** | **TA** |  |  |  |
 
-## [Syllabus] ({% link syllabus.md %})
+HCØ: HCØ Universitetsparken 5
+
+Bio: Biocenter, Ole Maaløes Vej 5
+
+NBB: Jagtvej 130
+
+
+## [Syllabus] ({% link syllabus.md %}).
 
 Topics, and the plan for each week.
 
