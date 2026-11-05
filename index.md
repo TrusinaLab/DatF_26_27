@@ -26,4 +26,5 @@ Welcome to DatF!
 
 Topics, and the plan for each week, are on the [syllabus]({% link syllabus.md %}).
 
-Assignments
+## Assignments 
+ [Assignments]({% link assignments.md %}).
