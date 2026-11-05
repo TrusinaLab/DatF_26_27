@@ -3,7 +3,7 @@ layout: default
 title: home
 ---
 
-# Datologi for Fysikere
+# DatF - Datologi for Fysikere
 
 Welcome to DatF!
 
