@@ -1,0 +1,7 @@
+title: Datologi for Fysikere
+description: DatF · second-year bachelor course in physics · 2026/27
+lang: en
+theme: minima
+header_pages:
+  - syllabus.md
+markdown: kramdown
