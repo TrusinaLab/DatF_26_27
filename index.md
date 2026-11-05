@@ -1,8 +1,7 @@
 ---
-
 layout: default
 title: Home
-
+---
 # DatF - Datologi for Fysikere
 
 Welcome to DatF!
