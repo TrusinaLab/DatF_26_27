@@ -25,9 +25,8 @@ Welcome to DatF!
 | Fridays 9–12 | NBB, 1.01.B.080 TA | NBB, 1.01.B.082 TA | NBB, 1.01.F.70 | NBB, 11.E.015 | HCØ, A102 |
 |  |  **TA** | **TA** |  |  |  |
 
-## Syllabus
+## [Syllabus] ({% link syllabus.md %}))
 
-Topics, and the plan for each week, are on the [syllabus]({% link syllabus.md %}).
+Topics, and the plan for each week.
 
-## Assignments
-[Assignments]({% link assignments.md %}).
+## [Assignments]({% link assignments.md %}).
