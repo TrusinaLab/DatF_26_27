@@ -155,5 +155,6 @@ Verify that the code runs and indeed uses `datf`.
 | Python command missing from the Command Palette | Check that Microsoft's Python extension is installed and enabled.                                    |
 | PowerShell says scripts are disabled            | Use the conditional fix in the [anaconda page]({{ '/guides/anaconda/' | relative_url }}).            |
 
+## MARKER
 
 [Python tutorial](https://code.visualstudio.com/docs/python/python-tutorial) · [Terminal basics](https://code.visualstudio.com/docs/terminal/basics) · [Keyboard shortcuts](https://code.visualstudio.com/docs/configure/keybindings)
