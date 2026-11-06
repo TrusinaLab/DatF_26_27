@@ -1,7 +1,7 @@
 ---
-
-## layout: default
+layout: default
 title: Syllabus
+---
 
 # Syllabus
 

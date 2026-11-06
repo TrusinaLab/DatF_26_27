@@ -5,11 +5,15 @@ title: Assignments
 
 ## Assignments
 
-Assignment 1 - get 16/11/26; **submit 30/11/26** 
+Assignment 1 - available from 16/11/2026; **submit before 30/11/2026** 
 
-Assignment 2 - get 30/11/26; **submit 14/12/26**
+- [Assignment (.pdf)]({{ '/downloads/assignments/Assignment1.pdf' | relative_url }})
+- [Data For Exercises (.zip)]({{ '/downloads/materials/exercises1.zip' | relative_url }})
+- [Mandatory Project Part 1 (.zip)]({{ '/downloads/project/part1.zip' | relative_url }})
 
-Assignment 3 - get 14/12/26; **submit 04/01/27**
+Assignment 2 - available from 30/11/2026; **submit before 14/12/2026**
 
-Assignment 4 - get 04/01/27; **submit 11/01/27**
+Assignment 3 - available from 14/12/2026; **submit before 04/01/2027**
+
+Assignment 4 - available from 04/01/2027; **submit before 11/01/2027**
 

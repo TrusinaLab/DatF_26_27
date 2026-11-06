@@ -1,6 +1,17 @@
+---
+layout: default
+title: Visual Studio Code
+permalink: /guides/vscode/
+---
+
+[Guides home]({{ '/guides/' | relative_url }}) ·
+[VS Code]({{ '/guides/vscode/' | relative_url }}) ·
+[Terminal]({{ '/guides/terminal/' | relative_url }}) ·
+[Anaconda]({{ '/guides/anaconda/' | relative_url }}) ·
+[Git]({{ '/guides/git/' | relative_url }})
+
 # Visual Studio Code — setup and quick use
 
-[All sheets](00-start-here.md) · [Git](04-git.md) · [Anaconda / Conda](03-anaconda.md) · [Terminal](02-terminal.md)
 
 **Purpose:** edit your project, run Python and notebooks, and use Git and Conda - all in one application. Install Git and Anaconda using their sheets after the basic VS Code setup.
 
@@ -53,7 +64,7 @@ Nothing to configure - VS Code detects zsh as the macOS default.
 
 Fully quit and reopen VS Code. Make a fresh terminal following: **Terminal → New Terminal**, either using the top panel menu or the Command Palette.
 
-**Go through the [terminal sheet](02-terminal.md)** to learn basic terminal commands and then come back here.
+**Go through the [terminal page]({{ '/guides/terminal/' | relative_url }})** to learn basic terminal commands and then come back here.
 
 ### Exercise: set up folders for the course using the terminal
 
@@ -74,7 +85,7 @@ DatF/
 	Exercises4/
 ```
 
-The contents of `MandatoryProject` will evolve over the entire course while `ExercisesX` folders will contain your solutions to point-based exercises for each assignment. You hand in by *zipping* both `MandatoryProject` and `ExercistsX` separately and upload them to Absalon for your TA to review.
+The contents of `MandatoryProject` will evolve over the entire course while `ExercisesX` folders will contain your solutions to point-based exercises for each assignment. You hand in by *zipping* both `MandatoryProject` and `ExercisesX` separately and upload the two folders to Absalon for your TA to review.
 
 ## 5. OPTIONAL: make VS Code your own
 
@@ -86,7 +97,7 @@ Try it out!
 
 ## 6. Using Python environments
 
-**Go through the [Anaconda sheet](03-anaconda.md),** then come back here to test out how it integrates with VS Code.
+**Go through the [anaconda page]({{ '/guides/anaconda/' | relative_url }}),** then come back here to test out how it integrates with VS Code.
 
 Open your `DatF` folder in VS Code using the Command Palette or **File > Open Folder...** Create two files: `test.py` and `test.ipynb` and paste the following little program into each of them:
 
@@ -121,7 +132,7 @@ Verify that the code runs and indeed uses `datf`.
 
 ## 7. Using Git
 
-**Go through the [Git sheet](04-git.md),** to install the tool and learn basic commands.
+**Go through the [git page]({{ '/guides/git/' | relative_url }}),** to install the tool and learn basic commands.
 
 ## 8. Useful VS Code controls
 
@@ -141,7 +152,7 @@ Verify that the code runs and indeed uses `datf`.
 | `conda` or `git` not found                      | Check the selected terminal profile and the corresponding installation sheet; fully restart VS Code. |
 | Import works in terminal but fails in notebook  | Select the `datf` environment as the notebook kernel; restart that kernel.                           |
 | Python command missing from the Command Palette | Check that Microsoft's Python extension is installed and enabled.                                    |
-| PowerShell says scripts are disabled            | Use the conditional fix in the [Anaconda sheet](03-anaconda.md).                                     |
+| PowerShell says scripts are disabled            | Use the conditional fix in the [anaconda page]({{ '/guides/anaconda/' | relative_url }}).                                     |
 
 
 [Python tutorial](https://code.visualstudio.com/docs/python/python-tutorial) · [Terminal basics](https://code.visualstudio.com/docs/terminal/basics) · [Keyboard shortcuts](https://code.visualstudio.com/docs/configure/keybindings)

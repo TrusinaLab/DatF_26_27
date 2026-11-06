@@ -5,7 +5,7 @@ theme: minima
 header_pages:
   - syllabus.md
   - assignments.md
-  - resources.md
+  - guides.md
   - index.md
 markdown: kramdown
 url: https://trusinalab.github.io

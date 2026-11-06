@@ -10,19 +10,19 @@ Keep these Markdown files together so the links between them work. Once you have
 
 | Tool                             | Purpose                                                                                                                                                                           | Cheat sheet                   |
 | -------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- |
-| Visual Studio Code - your editor | Manage files, edit code, run scripts and notebooks. A proper editor offers lots of helpful features that means way less switching back and forth between Jupyter, google, or LLMs | [01-vscode.md](01-vscode)     |
-| Terminal                         | Run commands and navigate folders. Lets you use Git and Anaconda without leaving your editor                                                                                      | [02-terminal.md](02-terminal) |
-| Anaconda / Conda                 | Install Python libraries and manage environments                                                                                                                                  | [03-anaconda.md](03-anaconda) |
-| Git                              | Record changes, restore earlier versions of your work, collaborate, and share code.                                                                                               | [01-git.md](04-git.md)        |
+| Visual Studio Code - your editor | Manage files, edit code, run scripts and notebooks. A proper editor offers lots of helpful features that means way less switching back and forth between Jupyter, google, or LLMs | [VS Code]({{ '/guides/vscode/' | relative_url }})     |
+| Terminal                         | Run commands and navigate folders. Lets you use Git and Anaconda without leaving your editor                                                                                      | [Terminal]({{ '/guides/terminal/' | relative_url }}) |
+| Anaconda / Conda                 | Install Python libraries and manage environments                                                                                                                                  | [Anaconda]({{ '/guides/anaconda/' | relative_url }}) |
+| Git                              | Record changes, restore earlier versions of your work, collaborate, and share code.                                                                                               | [Git]({{ '/guides/git/' | relative_url }})        |
 While the tools are the same, the exact setup differs slightly between operating systems - for instance **Windows users will use the *PowerShell* terminal**, while **macOS users will use the *zsh* terminal.** Follow the parts of the installation guide that matches your system.
 
 
 ## First-time setup — follow this order
 
-1. **Install and configure [VS Code](01-vscode.md).** Add Python and Jupyter notebook extensions and choose the terminal profile. **Using VS Code is mandatory for this course** even if you normally use a different editor. This ensures that you get the best help and feedback while teaching you a new skill.
-2. **Review the [terminal sheet](02-terminal.md).** Learn how to navigate your file-system using commands like `cd`, `ls`, `mkdir`, and get ready for interacting with Git and Anaconda.
-3. **Install [Anaconda](03-anaconda.md).** We recommend un- and re-installing Anaconda even if you already have it since its `base` environment have most likely been contaminated if you have ever installed packages like `numpy` or `matplotlib` using `pip install`. Confirm that you can create and activate different environments in the VS Code terminal window.
-4. **Install [Git](04-git.md)** and confirm that it works in the VS Code terminal window.
+1. **Install and configure [VS Code]({{ '/guides/vscode/' | relative_url }}).** Add Python and Jupyter notebook extensions and choose the terminal profile. **Using VS Code is mandatory for this course** even if you normally use a different editor. This ensures that you get the best help and feedback while teaching you a new skill.
+2. **Review the [terminal page]({{ '/guides/terminal/' | relative_url }}).** Learn how to navigate your file-system using commands like `cd`, `ls`, `mkdir`, and get ready for interacting with Git and Anaconda.
+3. **Install [Anaconda]({{ '/guides/anaconda/' | relative_url }}).** We recommend un- and re-installing Anaconda even if you already have it since its `base` environment have most likely been contaminated if you have ever installed packages like `numpy` or `matplotlib` using `pip install`. Confirm that you can create and activate different environments in the VS Code terminal window.
+4. **Install [Git]({{ '/guides/git/' | relative_url }})** and confirm that it works in the VS Code terminal window.
 5. **Run the checks below inside the VS Code terminal:**
 
 ## A normal working session
@@ -31,7 +31,7 @@ While the tools are the same, the exact setup differs slightly between operating
 2. Open a terminal; run `conda activate datf`.
 3. Check `git status`
 4. Edit and save your work.
-5. Review your changes, add the intended files to git and commit. (*Push when the project has a remote you can write to. See the [Git workflow](04-git.md).*)
+5. Review your changes, add the intended files to git and commit. (*Push when the project has a remote you can write to. See the [git workflow]({{ '/guides/git/' | relative_url }}).*)
 
 ## If something fails
 

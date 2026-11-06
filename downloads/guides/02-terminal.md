@@ -1,3 +1,15 @@
+---
+layout: default
+title: Terminal
+permalink: /guides/terminal/
+---
+
+[Guides home]({{ '/guides/' | relative_url }}) ·
+[VS Code]({{ '/guides/vscode/' | relative_url }}) ·
+[Terminal]({{ '/guides/terminal/' | relative_url }}) ·
+[Anaconda]({{ '/guides/anaconda/' | relative_url }}) ·
+[Git]({{ '/guides/git/' | relative_url }})
+
 # Terminal — setup and everyday commands
 
 ## 1. Open the right place to type

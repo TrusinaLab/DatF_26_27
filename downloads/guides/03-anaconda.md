@@ -1,3 +1,15 @@
+---
+layout: default
+title: Anaconda & Conda
+permalink: /guides/anaconda/
+---
+
+[Guides home]({{ '/guides/' | relative_url }}) ·
+[VS Code]({{ '/guides/vscode/' | relative_url }}) ·
+[Terminal]({{ '/guides/terminal/' | relative_url }}) ·
+[Anaconda]({{ '/guides/anaconda/' | relative_url }}) ·
+[Git]({{ '/guides/git/' | relative_url }})
+
 # Anaconda & Conda — setup and quick use
 
 **Purpose:** install Python and packages, and keep each project's software in its own environment. **Anaconda Distribution** is the installer; **Conda** is the command you use in the terminal to manage environments. 
@@ -72,7 +84,7 @@ If you instead used the terminal installer with its default home-folder location
 ~/anaconda3/bin/conda init zsh`.
 ```
 
-**Intel Mac note:** Anaconda stopped producing new Intel Mac packages on 15 August 2025. Use an archived installer and check the course environment below. See the [support announcement](https://www.anaconda.com/blog/intel-mac-package-support-deprecation).
+**Intel Mac note:** Anaconda stopped producing new Intel Mac packages on 15 August 2025. Use an archived installer and check the course environment below. Optionally, see the [support announcement](https://www.anaconda.com/blog/intel-mac-package-support-deprecation).
 
 ## 2. Disable automatic `base` activation
 

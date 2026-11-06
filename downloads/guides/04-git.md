@@ -1,3 +1,15 @@
+---
+layout: default
+title: Git
+permalink: /guides/git/
+---
+
+[Guides home]({{ '/guides/' | relative_url }}) ·
+[VS Code]({{ '/guides/vscode/' | relative_url }}) ·
+[Terminal]({{ '/guides/terminal/' | relative_url }}) ·
+[Anaconda]({{ '/guides/anaconda/' | relative_url }}) ·
+[Git]({{ '/guides/git/' | relative_url }})
+
 # Git — installation & everyday commands
 
 **Git** records your project's history on your computer. **GitHub** hosts a copy online for sharing. A *repository* is a project folder with Git history; a *commit* is a saved snapshot. You can always use Git locally without a GitHub account.
@@ -51,7 +63,7 @@ These settings label your commits; **they do not sign you in to GitHub**. [Offic
 You make a project folder into a git repository by navigating to the folder and running the `git init` command:
 
 ```zsh
-cd assignment1
+cd Exercises1
 git init
 ```
 
@@ -94,7 +106,8 @@ Then indicate what files should not be tracked by `git`, for instance:
 `*.egg-info` means "any file that has the `.egg-info` filetype, regardless of its name."
 
 Commit the `.gitignore` itself to git. Keep source code, notebooks and environment specifications in Git. `.gitignore` does not remove files already tracked by Git. [Tracking and ignoring files](https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository)
-#### A typical assignment folder
+
+#### A typical Exercises folder
 ```zsh
 Assignment1/
 	data/
@@ -105,7 +118,7 @@ Assignment1/
 	.git/
 	.gitignore
 ```
-*When you .zip the folder and hand it in your TA can read your Git commit history. Make sure to commit often and describe what you changed/added to your repository in the commit message.*
+*When you .zip the folder and hand it in, your TA can read your Git commit history. Make sure to commit often and describe what you conceptually changed/added to your repository in the commit messages.*
 
 ## 5. Everyday workflow - with GitHub (Relevant for assignments 3 + 4)
 
