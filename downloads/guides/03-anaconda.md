@@ -151,13 +151,13 @@ Activate `datf` before installing packages or running Python. An environment con
 
 ## 5. Common fixes
 
-| Symptom                                    | First thing to check                                                                                  |
-| ------------------------------------------ | ----------------------------------------------------------------------------------------------------- |
+| Symptom | First thing to check |
+| --- | --- |
 | `conda` is not recognized                  | Repeat the shell initialization above; open a fresh terminal. On Windows, start from Anaconda Prompt. |
-| `Run 'conda init' before 'conda activate'` | Initialize the terminal you are actually using, then reopen it.                                       |
+| `Run 'conda init' before 'conda activate'` | Initialize the terminal you are actually using, then reopen it.                                  |
 | Works outside VS Code only                 | Check VS Code's shell profile, quit/reopen VS Code, and create a new terminal.                        |
-| `ModuleNotFoundError`                      | Activate `datf`, check `sys.executable`, and select the same interpreter/kernel in VS Code.           |
-| `EnvironmentNameNotFound`                  | Run `conda env list`; create the environment if it is absent.                                         |
+| `ModuleNotFoundError`                      | Activate `datf`, check `sys.executable`, and select the same interpreter/kernel in VS Code.       |
+| `EnvironmentNameNotFound`                  | Run `conda env list`; create the environment if it is absent.                              |
 
 ## Official references
 

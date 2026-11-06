@@ -169,12 +169,12 @@ git clone REPOSITORY_URL
 
 ## Common fixes
 
-| Problem                                    | Check                                                                                          |
-| ------------------------------------------ | ---------------------------------------------------------------------------------------------- |
+| Problem | Check |
+| --- | --- |
 | `git` is not recognized / not found        | Restart the terminal and VS Code. On Windows, make sure to check the installer's PATH option.  |
-| `not a git repository`                     | Use `pwd` and `cd` to enter the project folder.                                                |
-| `nothing to commit` after editing          | Save the file, then check `git status` and stage the intended changes.                         |
-| Push denied                                | Check `git remote -v`, your signed-in account, and write permission.                           |
+| `not a git repository`                     | Use `pwd` and `cd` to enter the project folder.                       |
+| `nothing to commit` after editing          | Save the file, then check `git status` and stage the intended changes.                      |
+| Push denied                                | Check `git remote -v`, your signed-in account, and write permission.                   |
 
  [Pull reference](https://git-scm.com/docs/git-pull) · [Git command reference](https://git-scm.com/docs) · [GitHub learning exercises](https://skills.github.com/)
 

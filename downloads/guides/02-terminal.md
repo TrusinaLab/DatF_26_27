@@ -24,9 +24,9 @@ Commands act relative to the terminal's **current folder**, which can differ fro
 
 Here is a list of commands that reflect the common actions you now from navigating a file explorer with your cursor. Folder and filenames are just examples.
 
-| Action                                                                                         | Windows PowerShell                            | macOS zsh                              |
-| ---------------------------------------------------------------------------------------------- | --------------------------------------------- | -------------------------------------- |
-| Show current folder                                                                            | `pwd`                                         | `pwd`                                  |
+| Action  | Windows PowerShell | macOS zsh |
+| --- | --- | --- |
+| Show current folder  | `pwd`  | `pwd`  |
 | List files and folders                                                                         | `ls`                                          | `ls`                                   |
 | Include hidden items                                                                           | `Get-ChildItem -Force`                        | `ls -a`                                |
 | Enter a folder inside your current colder                                                      | `cd Datf`                                     | `cd Datf`                              |

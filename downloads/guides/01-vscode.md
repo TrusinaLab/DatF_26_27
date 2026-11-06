@@ -19,9 +19,10 @@ permalink: /guides/vscode/
 
 Download the **desktop application** from [Visual Studio Code](https://code.visualstudio.com/download).
 
-| Windows                                                                                                                                                                                                                                                                                                                | macOS                                                                                                        |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
-| Choose the **User Installer** (check if your system uses x64 or ARM64 in *'System Information'*). <br><br>Keep default settings in the installation setup but be sure to:<br><br>- **Keep** *Add to PATH* **enabled**<br><br>- When prompted for **GitHub Copilot CLI**, choose: *'Don't add the copilot command'*<br> | Choose the build for your Mac, open the download, and move **Visual Studio Code.app** into **Applications**. |
+| Windows | macOS |
+|  --- | --- |
+| Choose the **User Installer** (check if your system uses x64 or ARM64 in *'System Information'*). Keep default settings in the installation setup but be sure to: (1) **Keep** *Add to PATH* **enabled** (2) When prompted for **GitHub Copilot CLI**, choose: *'Don't add the copilot command'* | Choose the build for your Mac, open the download, and move **Visual Studio Code.app** into **Applications**. |
+
 More info at: [Windows installation](https://code.visualstudio.com/docs/setup/windows) · [macOS installation](https://code.visualstudio.com/docs/setup/mac)
 
 ## 2. Add extensions
@@ -154,7 +155,5 @@ Verify that the code runs and indeed uses `datf`.
 | Import works in terminal but fails in notebook  | Select the `datf` environment as the notebook kernel; restart that kernel.                           |
 | Python command missing from the Command Palette | Check that Microsoft's Python extension is installed and enabled.                                    |
 | PowerShell says scripts are disabled            | Use the conditional fix in the [anaconda page]({{ '/guides/anaconda/' | relative_url }}).            |
-
-## MARKER
 
 [Python tutorial](https://code.visualstudio.com/docs/python/python-tutorial) · [Terminal basics](https://code.visualstudio.com/docs/terminal/basics) · [Keyboard shortcuts](https://code.visualstudio.com/docs/configure/keybindings)
