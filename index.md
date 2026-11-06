@@ -9,9 +9,10 @@ Welcome to DatF!
 
 **Lecturer:** Ala Trusina
 
+**Co-Lecturer:** Andreas Stillits
+
 **TAs:** Julius Rye Bønnelykke, Lasse Frederik Bonn, Leonie Röntgen, Shirin Gul Zaidi
 
-**Co-teacher:** Andreas Stillits
 
 ## Where and when
 

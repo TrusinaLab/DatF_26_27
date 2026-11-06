@@ -8,13 +8,13 @@ Keep these Markdown files together so the links between them work. Once you have
 
 ## What each tool does
 
-| Tool                             | Purpose                                                                                                                                                                           | Cheat sheet                   |
-| -------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- |
+| Tool | Purpose | Cheat sheet |
+| -------------------------------- | ---------------------------------------------------------------------------- | ----------------------------- |
 | Visual Studio Code - your editor | Manage files, edit code, run scripts and notebooks. A proper editor offers lots of helpful features that means way less switching back and forth between Jupyter, google, or LLMs | [VS Code]({{ '/guides/vscode/' | relative_url }})     |
-| Terminal                         | Run commands and navigate folders. Lets you use Git and Anaconda without leaving your editor                                                                                      | [Terminal]({{ '/guides/terminal/' | relative_url }}) |
-| Anaconda / Conda                 | Install Python libraries and manage environments                                                                                                                                  | [Anaconda]({{ '/guides/anaconda/' | relative_url }}) |
-| Git                              | Record changes, restore earlier versions of your work, collaborate, and share code.                                                                                               | [Git]({{ '/guides/git/' | relative_url }})        |
-While the tools are the same, the exact setup differs slightly between operating systems - for instance **Windows users will use the *PowerShell* terminal**, while **macOS users will use the *zsh* terminal.** Follow the parts of the installation guide that matches your system.
+| Terminal                         | Run commands and navigate folders. Lets you use Git and Anaconda without leaving your editor | [Terminal]({{ '/guides/terminal/' | relative_url }}) |
+| Anaconda / Conda                 | Install Python libraries and manage environments | [Anaconda]({{ '/guides/anaconda/' | relative_url }}) |
+| Git                              | Record changes, restore earlier versions of your work, collaborate, and share code.  | [Git]({{ '/guides/git/' | relative_url }})        |
+While the tools are the same, the exact setup differs slightly between operating systems - for instance **Windows users will use the _PowerShell_ terminal**, while **macOS users will use the _zsh_ terminal.** Follow the parts of the installation guide that matches your system.
 
 
 ## First-time setup — follow this order
