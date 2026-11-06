@@ -91,7 +91,7 @@ Replace `analysis.py` with the actual file(s) you changed. `add` stages the curr
 
 Press **q** to leave the `git log` interface.
 
-### Keep generated files out of Git
+### Keep certain files out of Git
 
 Create a file named `.gitignore` in the project folder:
 Then indicate what files should not be tracked by `git`, for instance:
