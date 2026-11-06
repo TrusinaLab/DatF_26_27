@@ -82,12 +82,13 @@ git log --oneline # review the commit history
 
 Replace `analysis.py` with the actual file(s) you changed. `add` stages the current contents for the next commit; run it again if you make further edits. `commit` records staged changes **locally**
 
-| Recall                               | Command                         |
-| ------------------------------------ | ------------------------------- |
+| Recall | Command |
+| --- | --- |
 | Changed, staged, and untracked files | `git status`                    |
 | Stage selected files                 | `git add analysis.py README.md` |
 | Commit added changes                 | `git commit -m "some message"`  |
 | Recent commits                       | `git log --oneline`             |
+
 Press **q** to leave the `git log` interface.
 
 ### Keep generated files out of Git
