@@ -136,23 +136,24 @@ Verify that the code runs and indeed uses `datf`.
 
 ## 8. Useful VS Code controls
 
-| Action                                                                                                 | Windows                 | macOS                   |
-| ------------------------------------------------------------------------------------------------------ | ----------------------- | ----------------------- |
-| Command Palette; then search for actions (select interpreter, kernel, new terminal, color theme, etc.) | Ctrl+Shift+P            | Cmd+Shift+P             |
-| Save file                                                                                              | Ctrl+S                  | Cmd+S                   |
-| Comment/uncomment selected lines                                                                       | Ctrl+'                  | Cmd+'                   |
-| Open terminal                                                                                          | Terminal → New Terminal | Terminal → New Terminal |
-| Open a folder                                                                                          | File → Open Folder...   | File → Open Folder...   |
+| Action | Windows | macOS |
+| --- | --- | --- |
+| Command Palette; then search for actions (select interpreter, kernel, new terminal, color theme, etc.) | `Ctrl+Shift+P` | `Cmd+Shift+P` |
+| Save file | `Ctrl+S` | `Cmd+S` |
+| Comment/uncomment selected lines | `Ctrl+'` | `Cmd+'` |
+| Open terminal | Terminal → New Terminal | Terminal → New Terminal |
+| Open a folder | File → Open Folder...  | File → Open Folder...  |
+
 *(Every action is also searchable in the Command Palette)*
 
 ## Common fixes
 
-| Symptom                                         | Fix                                                                                                  |
-| ----------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| Symptom | Fix |
+| --- | --- |
 | `conda` or `git` not found                      | Check the selected terminal profile and the corresponding installation sheet; fully restart VS Code. |
 | Import works in terminal but fails in notebook  | Select the `datf` environment as the notebook kernel; restart that kernel.                           |
 | Python command missing from the Command Palette | Check that Microsoft's Python extension is installed and enabled.                                    |
-| PowerShell says scripts are disabled            | Use the conditional fix in the [anaconda page]({{ '/guides/anaconda/' | relative_url }}).                                     |
+| PowerShell says scripts are disabled            | Use the conditional fix in the [anaconda page]({{ '/guides/anaconda/' | relative_url }}).            |
 
 
 [Python tutorial](https://code.visualstudio.com/docs/python/python-tutorial) · [Terminal basics](https://code.visualstudio.com/docs/terminal/basics) · [Keyboard shortcuts](https://code.visualstudio.com/docs/configure/keybindings)
