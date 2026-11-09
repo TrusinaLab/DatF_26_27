@@ -21,7 +21,7 @@ Welcome to DatF!
 | Mondays 09–12      | HCØ Aud 04         |                    |                |               |              |
 | Tuesdays 13–16, Bio | øv 4-0-02          | øv 4-0-05          | øv 4-0-32      | bi 2-0-17     | bi 2-0-07/09 |
 |                     | **TA**             | **TA**             |                |               |              |
-| Fridays 9–12        | NBB, 1.01.B.080 (bottom floor)   | NBB, 1.01.B.082 (bottom floor)  | NBB, 1.01.F.70 | NBB, 11.E.015 | HCØ, A102    |
+| Fridays 9–12        | NBB, 1.01.B.080   | NBB, 1.01.B.082 | NBB, 1.01.F.70 | NBB, 11.E.015 | HCØ, A102    |
 |                     | **TA**              | **TA**             |                |               |              |
 
 HCØ: HCØ Universitetsparken 5
