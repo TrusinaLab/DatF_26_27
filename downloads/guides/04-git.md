@@ -110,14 +110,14 @@ Commit the `.gitignore` itself to git. Keep source code, notebooks and environme
 
 #### A typical Exercises folder
 ```zsh
-Assignment1/
-	data/
-		some_data_used_in_exercises.txt
-		...			
-	some_notebook.ipynb
-	some_file.py
-	.git/
-	.gitignore
+Exercises1/
+  data/
+    some_data_used_in_exercises.txt
+    ...			
+  some_notebook.ipynb
+  some_file.py
+  .git/
+  .gitignore
 ```
 *When you .zip the folder and hand it in, your TA can read your Git commit history. Make sure to commit often and describe what you conceptually changed/added to your repository in the commit messages.*
 
