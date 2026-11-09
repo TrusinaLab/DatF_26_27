@@ -35,3 +35,9 @@ NBB: Jagtvej 130
 Topics, and the plan for each week.
 
 ## [Assignments]({% link assignments.md %})
+
+Find assignment descriptions, data files for solving exercises, and project resources.
+
+## [Guides]({{ '/guides/' | relative_url }})
+
+Find setup guides and everyday commands for the course tools: VS Code, Terminal, Anaconda, and Git
